@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Handlee';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/handlee/v18/-F6xfjBsISg9aMakDmo.ttf) format('truetype');
+}
